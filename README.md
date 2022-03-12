@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Gasandong-Danmuzi
-- 👀 I’m interested in C# and Unity
-- 🌱 I’m currently learning C#
+C#, Unity
+@gasandong_danmuzi
+4by4inc
+
 
 <!---
 Gasandong-Danmuzi/Gasandong-Danmuzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
